@@ -1,0 +1,11 @@
+C:\Users\home\Desktop\Completed Tasks\AnyasPhoneBook\obj\Debug\AnyasPhoneBook.csproj.AssemblyReference.cache
+C:\Users\home\Desktop\Completed Tasks\AnyasPhoneBook\obj\Debug\AnyasPhoneBook.csproj.SuggestedBindingRedirects.cache
+C:\Users\home\Desktop\Completed Tasks\AnyasPhoneBook\obj\Debug\AnyasPhoneBook.FromContactsMenu.resources
+C:\Users\home\Desktop\Completed Tasks\AnyasPhoneBook\obj\Debug\AnyasPhoneBook.Properties.Resources.resources
+C:\Users\home\Desktop\Completed Tasks\AnyasPhoneBook\obj\Debug\AnyasPhoneBook.csproj.GenerateResource.cache
+C:\Users\home\Desktop\Completed Tasks\AnyasPhoneBook\obj\Debug\AnyasPhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\Completed Tasks\AnyasPhoneBook\bin\Debug\AnyasPhoneBook.exe.config
+C:\Users\home\Desktop\Completed Tasks\AnyasPhoneBook\bin\Debug\AnyasPhoneBook.exe
+C:\Users\home\Desktop\Completed Tasks\AnyasPhoneBook\bin\Debug\AnyasPhoneBook.pdb
+C:\Users\home\Desktop\Completed Tasks\AnyasPhoneBook\obj\Debug\AnyasPhoneBook.exe
+C:\Users\home\Desktop\Completed Tasks\AnyasPhoneBook\obj\Debug\AnyasPhoneBook.pdb
